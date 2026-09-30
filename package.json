@@ -22,7 +22,7 @@
     "typescript": "5.9.3",
     "vite": "5.4.21",
     "vite-plugin-monkey": "^4.0.6",
-    "vue-tsc": "^2.1.10"
+    "vue-tsc": "^3.0.0"
   },
   "release-it": {
     "$schema": "https://unpkg.com/release-it/schema/release-it.json",
