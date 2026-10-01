@@ -18,7 +18,7 @@
     "@types/bun": "^1.1.13",
     "@types/node": "^22.9.3",
     "@vitejs/plugin-vue": "^5.2.0",
-    "release-it": "^17.10.0",
+    "release-it": "^21.0.0",
     "typescript": "5.9.3",
     "vite": "8.3.1",
     "vite-plugin-monkey": "^8.0.0",
