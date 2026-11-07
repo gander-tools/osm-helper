@@ -15,14 +15,14 @@
     "vue": "^3.5.13"
   },
   "devDependencies": {
-    "@types/bun": "^1.1.13",
-    "@types/node": "^26.0.0",
-    "@vitejs/plugin-vue": "^6.0.0",
-    "release-it": "^21.0.0",
+    "@types/bun": "1.4.4",
+    "@types/node": "26.6.6",
+    "@vitejs/plugin-vue": "6.0.10",
+    "release-it": "21.1.2",
     "typescript": "7.0.2",
     "vite": "8.3.5",
-    "vite-plugin-monkey": "^8.0.0",
-    "vue-tsc": "^3.0.0"
+    "vite-plugin-monkey": "8.1.1",
+    "vue-tsc": "3.3.14"
   },
   "release-it": {
     "$schema": "https://unpkg.com/release-it/schema/release-it.json",
