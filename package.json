@@ -20,7 +20,7 @@
     "@vitejs/plugin-vue": "6.0.10",
     "release-it": "21.1.2",
     "typescript": "7.0.2",
-    "vite": "8.3.5",
+    "vite": "8.3.6",
     "vite-plugin-monkey": "8.1.1",
     "vue-tsc": "3.3.14"
   },
